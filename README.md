@@ -6,6 +6,7 @@ _This is just a suggested template for the README of your project, feel free to 
 - Danila Dziarkach
 - Joshua Zhang
 - Derrick Ruan
+- Josh Moon
 
 ### Project Description
 Describe the goal of your project here.
